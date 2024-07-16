@@ -1,0 +1,8 @@
+paddlepaddle
+paddlepaddle-gpu
+paddleocr
+scikit-learn
+pypinyin
+numpy
+python-Levenshtein 
+Pillow
